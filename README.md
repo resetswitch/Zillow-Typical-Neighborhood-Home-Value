@@ -2,7 +2,7 @@
 
 ## Overview
 
-To visualize neighborhood typical home values from across the US over time (dataset courtesy of Zillow). The visualization is done via plotly on my website <a href="chase-g.com/portfolio-zillow">chase-g.com</a>
+To visualize neighborhood typical home values from across the US over time (dataset courtesy of Zillow). The visualization is done via plotly on my website <a href="www.chase-g.com/portfolio-zillow">chase-g.com</a>
 
 ## Process
 
